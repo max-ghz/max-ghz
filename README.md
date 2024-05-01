@@ -1,7 +1,11 @@
 <p align="left"> <a href="https://www.soldankpp.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>
+<img src="https://github.com/YETIx86/YETIx86/blob/main/images/bootstrap.png?raw=true" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/YETIx86/YETIx86/blob/main/images/css3.png?raw=true" title="CSS3" alt="CSS3" width="40" height="40"/>
+<img src="https://github.com/YETIx86/YETIx86/blob/main/images/django.png?raw=true" title="Django" alt="Django" width="40" height="40"/>
+<img src="https://github.com/YETIx86/YETIx86/blob/main/images/git.png?raw=true" title="Git" alt="Git" width="40" height="40"/>
+<img src="https://github.com/YETIx86/YETIx86/blob/main/images/html5.png?raw=true" title="HTML5" alt="HTML5" width="40" height="40"/>
+<img src="https://github.com/YETIx86/YETIx86/blob/main/images/pytest.png?raw=true" title="pytest" alt="pytest" width="40" height="40"/>
+<img src="https://github.com/YETIx86/YETIx86/blob/main/images/python.png?raw=true" title="Python" alt="Python" width="40" height="40"/>
+<img src="https://github.com/YETIx86/YETIx86/blob/main/images/sass.png?raw=true" title="SASS" alt="SASS" width="40" height="40"/>
+<img src="https://github.com/YETIx86/YETIx86/blob/main/images/sqlite.png?raw=true" title="SQLite" alt="SQLite" width="40" height="40"/>
+<img src="https://github.com/YETIx86/YETIx86/blob/main/images/vegaspro.png?raw=true" title="Vegas Pro" alt="Vegas Pro" width="40" height="40"/>
