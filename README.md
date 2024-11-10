@@ -7,8 +7,8 @@
 <a href="https://dascript.org/" target="_blank">
   <img src="https://github.com/user-attachments/assets/4550a7a8-03e9-4ef0-848f-7bf7a0f79f3a" title="daScript" alt="daScript" width="40" height="40"/>
 </a>
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/django.png?raw=true" title="Django" alt="Django" width="31" height="36"/>
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/javascript.png?raw=true" title="Django" alt="Django" width="36" height="36"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/git.png?raw=true" title="Git" alt="Git" width="40" height="40"/>
@@ -23,11 +23,11 @@
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/python.png?raw=true" title="Python" alt="Python" width="40" height="40"/>
 </a>
 <a href="https://sass-lang.com/" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/sass.png?raw=true" title="SASS" alt="SASS" width="40" height="40"/>
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/sass.png?raw=true" title="SASS" alt="SASS" width="38" height="38"/>
 </a>
 <a href="https://www.sqlite.org/index.html" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/sqlite.png?raw=true" title="SQLite" alt="SQLite" width="40" height="40"/>
 </a>
 <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/vegaspro.png?raw=true" title="Vegas Pro" alt="Vegas Pro" width="37" height="37"/>
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/sonyvegas.png?raw=true" title="Vegas Pro" alt="Vegas Pro" width="35" height="35"/>
 </a>
