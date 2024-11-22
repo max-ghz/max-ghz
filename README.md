@@ -1,11 +1,14 @@
 <a href="https://getbootstrap.com/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/bootstrap.png?raw=true" title="Bootstrap" alt="Bootstrap" width="45" height="35"/>
 </a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+<a href="https://www.w3.org/Style/CSS/Overview.en.html/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/css.png?raw=true" title="CSS" alt="CSS" width="38" height="38"/>
 </a>
-<a href="https://dascript.org/" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/dascript.png?raw=true" title="daScript" alt="daScript" width="41" height="41"/>
+<a href="https://daslang.io/" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/dascript.png?raw=true" title="Daslang" alt="Daslang" width="41" height="41"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/docker.png?raw=true" title="Docker" alt="Docker" width="44" height="37"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/git.png?raw=true" title="Git" alt="Git" width="40" height="40"/>
