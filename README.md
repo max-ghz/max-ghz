@@ -1,3 +1,7 @@
+### Familiar with:
+<a href="https://www.gnu.org/software/bash" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/bash.png?raw=true" title="Bash" alt="Bash" width="41" height="41"/>
+</a>
 <a href="https://getbootstrap.com/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/bootstrap.png?raw=true" title="Bootstrap" alt="Bootstrap" width="45" height="35"/>
 </a>
@@ -6,6 +10,9 @@
 </a>
 <a href="https://daslang.io" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/dascript.png?raw=true" title="Daslang" alt="Daslang" width="41" height="41"/>
+</a>
+<a href="https://www.djangoproject.com" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/django.png?raw=true" title="Django" alt="Django" width="45" height="45"/>
 </a>
 <a href="https://www.docker.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/docker.png?raw=true" title="Docker" alt="Docker" width="44" height="37"/>
@@ -20,7 +27,7 @@
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="36" height="36"/>
 </a>
 <a href="https://www.json.org/json-en.html" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/JSON.png?raw=true" title="JSON" alt="JSON" width="36" height="36"/>
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/json.png?raw=true" title="json" alt="json" width="36" height="36"/>
 </a>
 <a href="https://pytest.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pytest.png?raw=true" title="pytest" alt="pytest" width="38" height="38"/>
@@ -37,3 +44,20 @@
 <a href="https://www.vegascreativesoftware.com/us/vegas-pro" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/sonyvegas.png?raw=true" title="Vegas Pro" alt="Vegas Pro" width="35" height="35"/>
 </a>
+
+### Actively learning:
+<a href="https://www.postgresql.org" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/postqresql.png?raw=true" title="PostqreSQL" alt="PostqreSQL" width="40" height="40"/>
+</a>
+<a href="https://jquery.com" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/jquery.png?raw=true" title="jQuery" alt="jQuery" width="40" height="40"/>
+</a>
+<a href="https://react.dev" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/react.png?raw=true" title="React" alt="React" width="43" height="43"/>
+</a>
+<a href="https://nextjs.org" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/nextjs.png?raw=true" title="Next.js" alt="Next.js" width="43" height="43"/>
+</a>
+
+## Currently working on:
+- <img src="https://github.com/user-attachments/assets/3a39483f-f8b4-4725-9af3-edb0ac8db019" width="57" title="soldankpp.com" /> [soldankpp.com](https://soldankpp.com) - website for 2D multiplayer arcade game Soldank++
