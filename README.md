@@ -52,6 +52,9 @@
 <a href="https://jquery.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/jquery.png?raw=true" title="jQuery" alt="jQuery" width="40" height="40"/>
 </a>
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/typescript.png?raw=true" title="TypeScript" alt="TypeScript" width="38" height="38"/>
+</a>
 <a href="https://react.dev" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/react.png?raw=true" title="React" alt="React" width="43" height="43"/>
 </a>
