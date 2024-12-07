@@ -1,5 +1,8 @@
 ### Familiar with:
 <a href="https://www.gnu.org/software/bash" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/api.png?raw=true" title="API" alt="API" width="42" height="42"/>
+</a>
+<a href="https://www.gnu.org/software/bash" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/bash.png?raw=true" title="Bash" alt="Bash" width="41" height="41"/>
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
@@ -29,6 +32,12 @@
 <a href="https://www.json.org/json-en.html" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/json.png?raw=true" title="json" alt="json" width="36" height="36"/>
 </a>
+<a href="https://www.linux.org" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/linux.png?raw=true" title="Linux" alt="Linux" width="46" height="46"/>
+</a>
+<a href="https://www.jetbrains.com/pycharm" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pycharm.png?raw=true" title="PyCharm" alt="PyCharm" width="37" height="37"/>
+</a>
 <a href="https://pytest.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pytest.png?raw=true" title="pytest" alt="pytest" width="38" height="38"/>
 </a>
@@ -41,8 +50,14 @@
 <a href="https://www.sqlite.org/index.html" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/sqlite.png?raw=true" title="SQLite" alt="SQLite" width="40" height="40"/>
 </a>
+<a href="https://tailwindcss.com" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/tailwindcss.png?raw=true" title="SQLite" alt="SQLite" width="35" height="22"/>
+</a>
 <a href="https://www.vegascreativesoftware.com/us/vegas-pro" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/sonyvegas.png?raw=true" title="Vegas Pro" alt="Vegas Pro" width="35" height="35"/>
+</a>
+<a href="https://www.jetbrains.com/webstorm" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/webstorm.png?raw=true" title="WebStorm" alt="WebStorm" width="38" height="38"/>
 </a>
 
 ### Actively learning:
