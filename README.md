@@ -99,4 +99,4 @@
 </a>
 
 ## Currently working on:
-- <img src="https://github.com/user-attachments/assets/3a39483f-f8b4-4725-9af3-edb0ac8db019" width="57" title="soldankpp.com" /> [soldankpp.com](https://soldankpp.com) - website for 2D multiplayer arcade game Soldank++
+- <img src="https://github.com/user-attachments/assets/3a39483f-f8b4-4725-9af3-edb0ac8db019" width="57" title="soldankpp.com" /> [soldankpp.app](https://soldankpp.app) - website for 2D multiplayer arcade game Soldank++
