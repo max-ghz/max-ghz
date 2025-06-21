@@ -32,6 +32,9 @@
 <a href="https://www.javascript.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="36" height="36"/>
 </a>
+<a href="https://www.jestjs.io" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/jest.png?raw=true" title="Jest" alt="Jest" width="38" height="38"/>
+</a>
 <a href="https://www.json.org/json-en.html" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/json.png?raw=true" title="json" alt="json" width="36" height="36"/>
 </a>
@@ -40,6 +43,9 @@
 </a>
 <a href="https://nextjs.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/nextjs.png?raw=true" title="Next.js" alt="Next.js" width="43" height="43"/>
+</a>
+<a href="https://nginx.org/" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/nginx.png?raw=true" title="Nginx" alt="Nginx" width="43" height="43"/>
 </a>
 <a href="https://www.openssh.com/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/openssh.png?raw=true" title="OpenSSh" alt="OpenSSH" width="41" height="41"/>
@@ -57,10 +63,10 @@
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pycharm.png?raw=true" title="PyCharm" alt="PyCharm" width="37" height="37"/>
 </a>
 <a href="https://pytest.org" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pytest.png?raw=true" title="pytest" alt="pytest" width="38" height="38"/>
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pytest.png?raw=true" title="pytest" alt="pytest" width="36" height="36"/>
 </a>
 <a href="https://www.python.org" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/python.png?raw=true" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/python.png?raw=true" title="Python" alt="Python" width="38" height="38"/>
 </a>
 <a href="https://react.dev" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/react.png?raw=true" title="React" alt="React" width="43" height="43"/>
@@ -87,7 +93,7 @@
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/webstorm.png?raw=true" title="WebStorm" alt="WebStorm" width="38" height="38"/>
 </a>
 
-### Actively learning:
+### Actively digging:
 <a href="https://www.javascript.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="36" height="36"/>
 </a>
