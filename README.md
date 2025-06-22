@@ -8,6 +8,12 @@
 <a href="https://getbootstrap.com/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/bootstrap.png?raw=true" title="Bootstrap" alt="Bootstrap" width="45" height="35"/>
 </a>
+<a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/commandprompt.png?raw=true" title="Command prompt" alt="Command prompt" width="37" height="30"/>
+</a>
+<a href="https://www.cursor.com/" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/cursor.png?raw=true" title="Cursor" alt="Cursor" width="46" height="46"/>
+</a>
 <a href="https://www.w3.org/Style/CSS" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/css.png?raw=true" title="CSS" alt="CSS" width="38" height="38"/>
 </a>
@@ -19,6 +25,9 @@
 </a>
 <a href="https://www.docker.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/docker.png?raw=true" title="Docker" alt="Docker" width="44" height="37"/>
+</a>
+<a href="https://www.usegalileo.ai/explore" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/galileoai.png?raw=true" title="GalileoAI" alt="GalileoAI" width="43" height="43"/>
 </a>
 <a href="https://git-scm.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/git.png?raw=true" title="Git" alt="Git" width="40" height="40"/>
@@ -53,11 +62,17 @@
 <a href="https://www.ovhcloud.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/ovh.png?raw=true" title="OVHCloud" alt="OVHCloud" width="37" height="37"/>
 </a>
+<a href="https://www.freepascal.org/" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pascal.png?raw=true" title="Pascal" alt="Pascal" width="40" height="40"/>
+</a>
 <a href="https://www.postgresql.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/postqresql.png?raw=true" title="PostqreSQL" alt="PostqreSQL" width="40" height="40"/>
 </a>
 <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/powershell" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/powershell.png?raw=true" title="Powershell" alt="Powershell" width="39" height="39"/>
+</a>
+<a href="https://www.putty.org/" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/putty.png?raw=true" title="PuTTY" alt="PuTTY" width="33" height="33"/>
 </a>
 <a href="https://www.jetbrains.com/pycharm" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pycharm.png?raw=true" title="PyCharm" alt="PyCharm" width="37" height="37"/>
@@ -91,6 +106,9 @@
 </a>
 <a href="https://www.jetbrains.com/webstorm" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/webstorm.png?raw=true" title="WebStorm" alt="WebStorm" width="38" height="38"/>
+</a>
+<a href="https://xubuntu.org/" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/xubuntu.png?raw=true" title="Xubuntu" alt="Xubuntu" width="38" height="38"/>
 </a>
 
 ### Actively digging:
