@@ -1,18 +1,9 @@
 ### Familiar with:
 <a href="https://www.gnu.org/software/bash" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/api.png?raw=true" title="API" alt="API" width="42" height="42"/>
-</a>
-<a href="https://www.gnu.org/software/bash" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/bash.png?raw=true" title="Bash" alt="Bash" width="41" height="41"/>
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/bootstrap.png?raw=true" title="Bootstrap" alt="Bootstrap" width="45" height="35"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/commandprompt.png?raw=true" title="Command prompt" alt="Command prompt" width="37" height="30"/>
-</a>
-<a href="https://www.cursor.com/" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/cursor.png?raw=true" title="Cursor" alt="Cursor" width="46" height="46"/>
 </a>
 <a href="https://www.w3.org/Style/CSS" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/css.png?raw=true" title="CSS" alt="CSS" width="38" height="38"/>
@@ -59,23 +50,14 @@
 <a href="https://www.openssh.com/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/openssh.png?raw=true" title="OpenSSh" alt="OpenSSH" width="41" height="41"/>
 </a>
-<a href="https://www.ovhcloud.com" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/ovh.png?raw=true" title="OVHCloud" alt="OVHCloud" width="37" height="37"/>
-</a>
 <a href="https://www.freepascal.org/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pascal.png?raw=true" title="Pascal" alt="Pascal" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/postqresql.png?raw=true" title="PostqreSQL" alt="PostqreSQL" width="40" height="40"/>
 </a>
-<a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/powershell" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/powershell.png?raw=true" title="Powershell" alt="Powershell" width="39" height="39"/>
-</a>
 <a href="https://www.putty.org/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/putty.png?raw=true" title="PuTTY" alt="PuTTY" width="33" height="33"/>
-</a>
-<a href="https://www.jetbrains.com/pycharm" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pycharm.png?raw=true" title="PyCharm" alt="PyCharm" width="37" height="37"/>
 </a>
 <a href="https://pytest.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pytest.png?raw=true" title="pytest" alt="pytest" width="36" height="36"/>
@@ -98,17 +80,8 @@
 <a href="https://www.typescriptlang.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/typescript.png?raw=true" title="TypeScript" alt="TypeScript" width="37" height="37"/>
 </a>
-<a href="https://www.vegascreativesoftware.com/us/vegas-pro" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/sonyvegas.png?raw=true" title="Vegas Pro" alt="Vegas Pro" width="35" height="35"/>
-</a>
 <a href="https://vite.dev/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/vite.png?raw=true" title="Vite" alt="Vite" width="37" height="37"/>
-</a>
-<a href="https://www.jetbrains.com/webstorm" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/webstorm.png?raw=true" title="WebStorm" alt="WebStorm" width="38" height="38"/>
-</a>
-<a href="https://xubuntu.org/" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/xubuntu.png?raw=true" title="Xubuntu" alt="Xubuntu" width="38" height="38"/>
 </a>
 
 ### Actively digging:
