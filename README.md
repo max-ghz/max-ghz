@@ -35,29 +35,23 @@
 <a href="https://www.jestjs.io" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/jest.png?raw=true" title="Jest" alt="Jest" width="38" height="38"/>
 </a>
-<a href="https://www.json.org/json-en.html" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/json.png?raw=true" title="json" alt="json" width="36" height="36"/>
-</a>
 <a href="https://www.linux.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/linux.png?raw=true" title="Linux" alt="Linux" width="46" height="46"/>
 </a>
 <a href="https://nextjs.org" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/nextjs.png?raw=true" title="Next.js" alt="Next.js" width="43" height="43"/>
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/nextjs.png?raw=true" title="Next" alt="Next" width="43" height="43"/>
 </a>
 <a href="https://nginx.org/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/nginx.png?raw=true" title="Nginx" alt="Nginx" width="43" height="43"/>
 </a>
 <a href="https://www.openssh.com/" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/openssh.png?raw=true" title="OpenSSh" alt="OpenSSH" width="41" height="41"/>
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/openssh.png?raw=true" title="OpenSSH" alt="OpenSSH" width="41" height="41"/>
 </a>
 <a href="https://www.freepascal.org/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pascal.png?raw=true" title="Pascal" alt="Pascal" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/postqresql.png?raw=true" title="PostqreSQL" alt="PostqreSQL" width="40" height="40"/>
-</a>
-<a href="https://www.putty.org/" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/putty.png?raw=true" title="PuTTY" alt="PuTTY" width="33" height="33"/>
 </a>
 <a href="https://pytest.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pytest.png?raw=true" title="pytest" alt="pytest" width="36" height="36"/>
