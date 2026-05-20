@@ -8,12 +8,6 @@
 <a href="https://www.w3.org/Style/CSS" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/css.png?raw=true" title="CSS" alt="CSS" width="38" height="38"/>
 </a>
-<a href="https://daslang.io" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/dascript.png?raw=true" title="Daslang" alt="Daslang" width="41" height="41"/>
-</a>
-<a href="https://www.djangoproject.com" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/django.png?raw=true" title="Django" alt="Django" width="45" height="45"/>
-</a>
 <a href="https://www.docker.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/docker.png?raw=true" title="Docker" alt="Docker" width="44" height="37"/>
 </a>
@@ -38,11 +32,17 @@
 <a href="https://www.linux.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/linux.png?raw=true" title="Linux" alt="Linux" width="46" height="46"/>
 </a>
+<a href="https://nestjs.com/" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/nestjs.png?raw=true" title="NestJS" alt="NestJS" width="43" height="43"/>
+</a>
 <a href="https://nextjs.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/nextjs.png?raw=true" title="Next" alt="Next" width="43" height="43"/>
 </a>
 <a href="https://nginx.org/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/nginx.png?raw=true" title="Nginx" alt="Nginx" width="43" height="43"/>
+</a>
+<a href="https://nodejs.org/en/download/" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/nodejs.png?raw=true" title="Node.js" alt="Node.js" width="43" height="43"/>
 </a>
 <a href="https://www.openssh.com/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/openssh.png?raw=true" title="OpenSSH" alt="OpenSSH" width="41" height="41"/>
@@ -52,6 +52,9 @@
 </a>
 <a href="https://www.postgresql.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/postqresql.png?raw=true" title="PostqreSQL" alt="PostqreSQL" width="40" height="40"/>
+</a>
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/php.png?raw=true" title="PHP" alt="PHP" width="43" height="43"/>
 </a>
 <a href="https://pytest.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/pytest.png?raw=true" title="pytest" alt="pytest" width="36" height="36"/>
@@ -69,13 +72,16 @@
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/sqlite.png?raw=true" title="SQLite" alt="SQLite" width="40" height="40"/>
 </a>
 <a href="https://tailwindcss.com" target="_blank">
-  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/tailwindcss.png?raw=true" title="SQLite" alt="SQLite" width="35" height="22"/>
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/tailwindcss.png?raw=true" title="TailwindCSS" alt="TailwindCSS" width="38" height="22"/>
 </a>
 <a href="https://www.typescriptlang.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/typescript.png?raw=true" title="TypeScript" alt="TypeScript" width="37" height="37"/>
 </a>
 <a href="https://vite.dev/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/vite.png?raw=true" title="Vite" alt="Vite" width="37" height="37"/>
+</a>
+<a href="https://www.wireshark.org/download.html" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/wireshark.png?raw=true" title="Wireshark" alt="Wireshark" width="37" height="37"/>
 </a>
 
 ### Actively digging:
