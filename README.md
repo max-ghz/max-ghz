@@ -11,10 +11,10 @@
 <a href="https://www.docker.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/docker.png?raw=true" title="Docker" alt="Docker" width="44" height="37"/>
 </a>
-<a href="https://www.docker.com" target="_blank">
+<a href="https://www.electronjs.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/electron.png?raw=true" title="Electron" alt="Electron" width="42" height="42"/>
 </a>
-<a href="https://www.docker.com" target="_blank">
+<a href="https://fastapi.tiangolo.com/" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/fastapi.png?raw=true" title="FastAPI" alt="FastAPI" width="40" height="40"/>
 </a>
 <a href="https://www.usegalileo.ai/explore" target="_blank">
