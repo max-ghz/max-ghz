@@ -1,4 +1,4 @@
-### Familiar with:
+### Familiar with
 <a href="https://www.gnu.org/software/bash" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/bash.png?raw=true" title="Bash" alt="Bash" width="41" height="41"/>
 </a>
@@ -84,7 +84,8 @@
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/wireshark.png?raw=true" title="Wireshark" alt="Wireshark" width="37" height="37"/>
 </a>
 
-### Actively digging:
+
+### Proficient in
 <a href="https://www.javascript.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="36" height="36"/>
 </a>
@@ -95,5 +96,6 @@
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/python.png?raw=true" title="Python" alt="Python" width="40" height="40"/>
 </a>
 
-## Currently working on:
-- <img src="https://github.com/user-attachments/assets/3a39483f-f8b4-4725-9af3-edb0ac8db019" width="57" title="soldankpp.com" /> [soldankpp.app](https://soldankpp.app) - website for 2D multiplayer arcade game Soldank++
+
+### About
+Experienced in full-stack web development. Strong understanding of memory allocation, dynamic data structures, efficient data handling, web scraping, and data extraction.
