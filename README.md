@@ -11,6 +11,12 @@
 <a href="https://www.docker.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/docker.png?raw=true" title="Docker" alt="Docker" width="44" height="37"/>
 </a>
+<a href="https://www.docker.com" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/electron.png?raw=true" title="Electron" alt="Electron" width="42" height="42"/>
+</a>
+<a href="https://www.docker.com" target="_blank">
+  <img src="https://github.com/YETIx86/YETIx86/blob/main/images/fastapi.png?raw=true" title="FastAPI" alt="FastAPI" width="40" height="40"/>
+</a>
 <a href="https://www.usegalileo.ai/explore" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/galileoai.png?raw=true" title="GalileoAI" alt="GalileoAI" width="43" height="43"/>
 </a>
@@ -84,7 +90,6 @@
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/wireshark.png?raw=true" title="Wireshark" alt="Wireshark" width="37" height="37"/>
 </a>
 
-
 ### Proficient in
 <a href="https://www.javascript.com" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="36" height="36"/>
@@ -95,7 +100,6 @@
 <a href="https://www.python.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/python.png?raw=true" title="Python" alt="Python" width="40" height="40"/>
 </a>
-
 
 ### About
 Experienced in full-stack web development. Strong understanding of memory allocation, dynamic data structures, efficient data handling, web scraping, and data extraction.
