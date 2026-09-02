@@ -100,6 +100,3 @@
 <a href="https://www.python.org" target="_blank">
   <img src="https://github.com/YETIx86/YETIx86/blob/main/images/python.png?raw=true" title="Python" alt="Python" width="40" height="40"/>
 </a>
-
-### About
-Experienced in full-stack web development. Strong understanding of memory allocation, dynamic data structures, efficient data handling, web scraping, and data extraction.
